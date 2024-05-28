@@ -9,8 +9,8 @@ Domino's Pizza is one of the leading pizza delivery companies globally, and anal
 ## Project Contents
 
 1. **Power BI Dashboard:**
-   - `dominos_pizza_sales_dashboard.pbix`: Power BI file containing the interactive dashboard.
-   - `dashboard_preview.png`: Preview image of the Power BI dashboard.
+   - `dominoz analysis.pbix`: Power BI file containing the interactive dashboard.
+   - `capture dominos.PNG`: Preview image of the Power BI dashboard.
 
 ## What We Did in Our Analysis
 
