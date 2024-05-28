@@ -37,7 +37,3 @@ Domino's Pizza is one of the leading pizza delivery companies globally, and anal
 ## Contributors
 
 - Vikas Sharma  - Creator
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
