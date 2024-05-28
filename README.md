@@ -29,11 +29,3 @@ Domino's Pizza is one of the leading pizza delivery companies globally, and anal
 5. **Interactive Dashboard Creation:**
    - Using Power BI's visualization tools, we created an interactive dashboard that visualizes the analyzed sales data and provides users with the ability to explore trends, patterns, and insights.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Open `dominos_pizza_sales_dashboard.pbix` in Power BI Desktop to interact with the dashboard and explore the visualizations.
-
-## Contributors
-
-- Vikas Sharma  - Creator
